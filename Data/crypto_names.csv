@@ -1,0 +1,533 @@
+Unnamed: 0,CoinName
+42,42 Coin
+404,404Coin
+1337,EliteCoin
+BTC,Bitcoin
+ETH,Ethereum
+LTC,Litecoin
+DASH,Dash
+XMR,Monero
+ETC,Ethereum Classic
+ZEC,ZCash
+BTS,Bitshares
+DGB,DigiByte
+BTCD,BitcoinDark
+XPY,PayCoin
+PRC,ProsperCoin
+KOBO,KoboCoin
+SPR,Spreadcoin
+ARG,Argentum
+AUR,Aurora Coin
+BLU,BlueCoin
+XMY,MyriadCoin
+MOON,MoonCoin
+ZET,ZetaCoin
+SXC,SexCoin
+QTL,Quatloo
+ENRG,EnergyCoin
+QRK,QuarkCoin
+RIC,Riecoin
+DGC,Digitalcoin 
+BTB,BitBar
+CAT,Catcoin
+CBX,CryptoBullion
+CCN,CannaCoin
+CRYPT,CryptCoin
+CSC,CasinoCoin
+DMD,Diamond
+XVG,Verge
+DVC,DevCoin
+EAC,EarthCoin
+EFL,E-Gulden
+EMC2,Einsteinium
+EMD,Emerald
+EXCL,Exclusive Coin
+FLT,FlutterCoin
+FRK,Franko
+FTC,FeatherCoin
+GDC,GrandCoin
+GLC,GlobalCoin
+GLD,GoldCoin
+HBN,HoboNickels
+HYP,HyperStake
+IFC,Infinite Coin
+IOC,IOCoin
+IXC,IXcoin
+KGC,KrugerCoin
+LKY,LuckyCoin
+LTB,Litebar 
+MAX,MaxCoin
+MEC,MegaCoin
+MED,MediterraneanCoin
+MINT,MintCoin
+MINC,MinCoin
+MZC,MazaCoin
+NAUT,Nautilus Coin
+NAV,NavCoin
+NOBL,NobleCoin
+NMC,Namecoin
+NYAN,NyanCoin
+OPAL,OpalCoin
+ORB,Orbitcoin
+POT,PotCoin
+PXC,PhoenixCoin
+RDD,Reddcoin
+RPC,RonPaulCoin
+SBC,StableCoin
+SMC,SmartCoin
+SUPER,SuperCoin
+SYNC,SyncCoin
+SYS,SysCoin
+TES,TeslaCoin
+TGC,TigerCoin
+TIT,TittieCoin
+TOR,TorCoin
+TRC,TerraCoin
+UNB,UnbreakableCoin
+UNO,Unobtanium
+URO,UroCoin
+USDE,UnitaryStatus Dollar
+UTC,UltraCoin
+VIA,ViaCoin
+VRC,VeriCoin
+VTC,Vertcoin
+WDC,WorldCoin
+XC,X11 Coin
+XCR,Crypti
+XJO,JouleCoin
+XST,StealthCoin
+ZCC,ZCC Coin
+BCN,ByteCoin
+XDN,DigitalNote 
+BURST,BurstCoin
+SJCX,StorjCoin
+MONA,MonaCoin
+NTRN,Neutron
+FAIR,FairCoin
+NLG,Gulden
+RBY,RubyCoin
+PTC,PesetaCoin
+KORE,Kore
+WBB,Wild Beast Coin
+NOTE,Dnotes
+FLO,Flo
+8BIT,8BIT Coin
+STV,Sativa Coin
+ABY,ArtByte
+FLDC,Folding Coin
+U,Ucoin
+UIS,Unitus
+CYP,CypherPunkCoin
+OMC,OmniCron
+VTR,Vtorrent
+GRE,GreenCoin
+XCN,Cryptonite
+MSC,MasterCoin
+SOON,SoonCoin
+1CR,1Credit
+ISL,IslaCoin
+NXS,Nexus
+MARS,MarsCoin 
+CTO,Crypto
+ACP,Anarchists Prime
+DRZ,Droidz
+BSC,BowsCoin
+SQL,Squall Coin
+SONG,Song Coin
+ZNY,BitZeny
+DIGS,Diggits
+EXP,Expanse
+CON,Paycon
+SC,Siacoin
+EMC,Emercoin
+EGC,EverGreenCoin
+MND,MindCoin
+I0C,I0coin
+DCR,Decred
+RVR,Revolution VR
+HODL,HOdlcoin
+EDRC,EDRCoin
+HTC,Hitcoin
+GAME,Gamecredits
+DBIC,DubaiCoin
+DIEM,CarpeDiemCoin
+PWR,PWR Coin
+BLRY,BillaryCoin
+GPU,GPU Coin
+ADZ,Adzcoin
+SOIL,SoilCoin
+YOC,YoCoin
+SIB,SibCoin
+ERC,EuropeCoin
+ZEIT,ZeitCoin
+SWING,SwingCoin
+SAFEX,SafeExchangeCoin
+NEBU,Nebuchadnezzar
+FRN,Francs
+BOLI,BolivarCoin
+XRA,Ratecoin
+REV,Revenu
+CKC,Clockcoin
+VIP,VIP Tokens
+BSD,BitSend
+OMNI,Omni
+LIR,Let it Ride
+PUT,PutinCoin
+IBANK,iBankCoin
+FRWC,Frankywillcoin
+MUDRA,MudraCoin
+PIZZA,PizzaCoin
+LC,Lutetium Coin
+KMD,Komodo
+GB,GoldBlocks
+CTC,CarterCoin
+KRB,Karbo
+BXT,BitTokens
+ZYD,ZayedCoin
+MST,MustangCoin
+ZNE,ZoneCoin
+COVAL,Circuits of Value
+ROOT,RootCoin
+DOPE,DopeCoin
+BTCR,BitCurrency
+DLC,DollarCoin
+SCN,Swiscoin
+SH,Shilling
+BUZZ,BuzzCoin
+XPO,Opair
+PSB,PesoBit
+HALLO,Halloween Coin
+XZC,ZCoin
+CFC,CoffeeCoin
+ROYAL,RoyalCoin
+GNJ,GanjaCoin V2
+TEAM,TeamUP
+LANA,LanaCoin
+ELE,Elementrem
+ZCL,ZClassic
+ARK,ARK
+INSANE,InsaneCoin
+KLC,KiloCoin
+ATX,ArtexCoin
+EMB,EmberCoin
+XEN,XenixCoin
+FRE,FreeCoin
+PLNC,PLNCoin
+ARCO,AquariusCoin
+KURT,Kurrent
+XCRE,Creatio
+ENT,Eternity
+EUC,Eurocoin
+BCF,BitcoinFast
+XSN,Stakenet
+BCCOIN,BitConnect Coin
+MONEY,MoneyCoin
+XNG,Enigma
+XCI,Cannabis Industry Coin
+RC,Russiacoin
+PND,PandaCoin
+UNITS,GameUnits
+GAKH,GAKHcoin
+ASAFE2,Allsafe
+LTCR,LiteCreed
+OS76,OsmiumCoin
+BIC,Bikercoins
+HXX,HexxCoin
+KED,Klingon Empire Darsek
+IOP,Internet of People
+KUSH,KushCoin
+PRX,Printerium
+PAC,PacCoin
+IMPCH,Impeach
+CTL,Citadel
+ZBC,Zilbercoin
+FRST,FirstCoin
+BVC,BeaverCoin
+FIND,FindCoin
+VLTC,VaultCoin
+ZER,Zero
+CHAT,OpenChat
+CDN,Canada eCoin
+ZOI,Zoin
+RNS,RenosCoin
+DBIX,DubaiCoin
+XVP,VirtacoinPlus
+TAJ,TajCoin
+IMX,Impact
+EB3,EB3coin
+ATMOS,Atmos
+HPC,HappyCoin
+CXT,Coinonat
+MCRN,MacronCoin
+RAIN,Condensate
+IMS,Independent Money System
+ARGUS,ArgusCoin
+LMC,LomoCoin
+PROC,ProCurrency
+XGR,GoldReserve
+BENJI,BenjiRolls
+GRW,GrowthCoin
+ILC,ILCoin
+PHR,Phreak
+DEA,Degas Coin
+HTML5,HTML5 Coin
+USC,Ultimate Secure Cash
+EQT,EquiTrader
+QTUM,QTUM
+QRL,Quantum Resistant Ledger
+ESP,Espers
+DYN,Dynamic
+NANO,Nano
+CHAN,ChanCoin
+DCY,Dinastycoin
+DNR,Denarius
+DP,DigitalPrice
+VUC,Virta Unique Coin
+BTPL,Bitcoin Planet
+UNIFY,Unify
+BRIT,BritCoin
+SOCC,SocialCoin
+ARC,ArcticCoin
+DAS,DAS
+LINDA,Linda
+XLC,LeviarCoin
+ONION,DeepOnion
+BTX,Bitcore
+GCN,gCn Coin
+SMART,SmartCash
+SIGT,Signatum
+ONX,Onix
+CRM,Cream
+BCH,Bitcoin Cash
+XMCC,Monoeci
+DFT,Draftcoin
+VET,Vechain
+SOJ,Sojourn Coin
+STCN,Stakecoin
+NYC,NewYorkCoin
+FRAZ,FrazCoin
+KRONE,Kronecoin
+ACC,AdCoin
+LINX,Linx
+XCXT,CoinonatX
+ETHD,Ethereum Dark
+SUMO,Sumokoin
+ODN,Obsidian
+ADA,Cardano
+REC,Regalcoin
+BTCZ,BitcoinZ
+TZC,TrezarCoin
+ELM,Elements
+TER,TerraNovaCoin
+VIVO,VIVO Coin
+RUP,Rupee
+BTG,Bitcoin Gold
+WOMEN,WomenCoin
+MAY,Theresa May Coin
+NAMO,NamoCoin
+LUX,LUXCoin
+PIRL,Pirl
+XIOS,Xios
+BTDX,Bitcloud 2.0
+EBST,eBoost
+KEK,KekCoin
+BLHC,BlackholeCoin
+XIN,Infinity Economics
+PURA,Pura
+INN,Innova
+ELLA,Ellaism
+GBX,GoByte
+MAG,Magnet
+TAU,Lamden Tau
+ECA,Electra
+BCD,Bitcoin Diamond
+XSH,SHIELD
+CNBC,Cash & Back Coin
+XUN,UltraNote
+COAL,BitCoal
+DAXX,DaxxCoin
+BWK,Bulwark
+KLKS,Kalkulus
+AC3,AC3
+LTHN,Lethean
+GER,GermanCoin
+LTCU,LiteCoin Ultra
+POP,PopularCoin
+PNX,PhantomX
+PHO,Photon
+SUCR,Sucre
+SPK,SparksPay
+WAGE,Digiwage
+GUN,GunCoin
+IRL,IrishCoin
+TROLL,Trollcoin
+LCP,Litecoin Plus
+MONK,Monkey Project
+PCOIN,Pioneer Coin
+UBTC,UnitedBitcoin
+ITZ,Interzone
+TPAY,TokenPay
+MCT,1717 Masonic Commemorative Token
+MBC,My Big Coin
+TRTL,TurtleCoin
+MUN,MUNcoin
+USX,Unified Society USDEX
+NBR,Niobio Cash
+SSS,ShareChain
+TRF,Travelflex
+KREDS,KREDS
+TOKC,Tokyo Coin
+BBP,BiblePay
+LCC,LitecoinCash
+FLIP,BitFlip
+LOT,LottoCoin
+CIF,Crypto Improvement Fund
+SPD,Stipend
+POA,Poa Network
+PUSHI,Pushi
+ELP,Ellerium
+VLX,Velox
+ONT,Ontology
+CLO,Callisto Network
+TUBE,BitTube
+PSD,Poseidon
+ADK,Aidos Kuneen
+BSX,Bitspace
+BRIA,Briacoin
+IC,Ignition
+BTL,Bitrolium
+MEDIC,MedicCoin
+ALPS,Alpenschillling
+BITG,Bitcoin Green
+DEV,Deviant Coin
+ABJ,Abjcoin
+SEM,Semux
+FTO,FuturoCoin
+CARE,Carebit
+NZL,Zealium
+XMC,Monero Classic
+PROTON,Proton
+DEAL,iDealCash
+JUMP,Jumpcoin
+INFX,Infinex
+XBI,Bitcoin Incognito
+KEC,KEYCO
+HWC,HollyWoodCoin
+GIN,GINcoin
+PLTC,PlatinCoin
+LOKI,Loki
+NCP,Newton Coin
+SIC,Swisscoin
+XT3,Xt3ch
+MGD,MassGrid
+VIG,TheVig
+PLURA,PluraCoin
+EMAR,EmaratCoin
+DKD,Dekado
+LYNX,Lynx
+POSQ,Poseidon Quark
+BWS,BitcoinWSpectrum
+MUSE,Muse
+XMN,Motion
+PLUS1,PlusOneCoin
+AXE,Axe
+TRVC,Trivechain
+DTEM,Dystem
+GIC,Giant
+PNY,Peony Coin
+ABS,Absolute Coin
+VITAE,Vitae
+HEX,HexCoin
+TPC,TPCash
+WEBC,Webchain
+RYO,Ryo
+URALS,Urals Coin
+QWC,Qwertycoin
+ARE,ARENON
+EUNO,EUNO
+MMO,MMOCoin
+KETAN,Ketan
+PPAI,Project Pai
+XDNA,XDNA
+PAXEX,PAXEX
+AZART,Azart
+TSC,ThunderStake
+KCASH,Kcash
+XCG,Xchange
+AAC,Acute Angle Cloud
+CRYP,CrypticCoin
+BTXC,Bettex coin
+ACM,Actinium
+BSV,Bitcoin SV
+BITM,BitMoney
+JMC,Junson Ming Chan Coin
+FRED,FREDEnergy
+HERB,HerbCoin
+UMO,Universal Molecule
+LIT,Lithium
+PIRATE,PirateCash
+EXO,Exosis
+BLTG,Block-Logic
+OWC,Oduwa
+BEAM,Beam
+GALI,Galilel
+BTH,Bithereum
+CSPN,Crypto Sports
+CREDIT,Credit
+SLC,SLICE
+DASHP,Dash Platinum
+NSD,Nasdacoin
+BEET,Beetle Coin
+TTN,Titan Coin
+AWR,Award
+BLAST,BLAST
+XRC,Bitcoin Rhodium
+GLT,GlobalToken
+INSN,Insane Coin
+ALX,ALAX
+LDOGE,LiteDoge
+SLR,SolarCoin
+TRK,TruckCoin
+UFO,UFO Coin
+OC,OrangeCoin
+BLC,BlakeCoin
+BITS,BitstarCoin
+NEOS,NeosCoin
+HYPER,HyperCoin
+PINK,PinkCoin
+CESC,Crypto Escudo
+ADC,AudioCoin
+NKA,IncaKoin
+PIGGY,Piggy Coin
+CRW,Crown Coin
+GEN,Genstake
+SMLY,SmileyCoin
+MI,XiaoMiCoin
+GRS,Groestlcoin
+CPC,CapriCoin
+CLUB, ClubCoin
+RADS,Radium
+BTA,Bata
+PAK,Pakcoin
+CRB,Creditbit 
+OK,OKCash
+LSK,Lisk
+XHI,HiCoin
+XWC,WhiteCoin
+FSC,FriendshipCoin
+J,JoinCoin
+TRI,Triangles Coin
+VOLLAR,Vollar
+EOS,EOS
+RCC,Reality Clash
+OXY,Oxycoin
+TCH,TigerCash
+WAVES,Waves
+PART,Particl
+BTT,BitTorrent
+NXT,Nxt
+ZEPH,ZEPHYR
+GAP,Gapcoin
+BDX,Beldex
+ZEN,Horizen
+XBC,BitcoinPlus
