@@ -17,9 +17,11 @@ The data we are working with is not ideal so it will need to be processed to fit
 
 <br>
 
+Please reference the code to follow along [crypto_clustering.ipynb](https://github.com/Brotherscodes/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
+
 ## Reducing Data Dimensions and Creating a 2D model using PCA:
 
-A scatter plot was created to show cryptocurrencies grouped in their class.
+A scatter plot was created to show cryptocurrencies grouped in their respective class. In a graph with total coins mined and total supplied as the axis we see two outliers, `BitTorrent` and `TurtleCoin`.
 
     # Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply".
     plot_df.hvplot.scatter(
