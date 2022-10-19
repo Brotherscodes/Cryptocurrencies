@@ -83,7 +83,7 @@ This 3D model was created with the code below:
 
 # Tradeable Cryptocurrencies:
 
-A table was formed with the `hvplot.table()` function holding all 532 tradable currencies.
+A table was formed with the `hvplot.table()` function holding all 532 tradable cryptocurrencies.
 
     # create an hv plot table:
     table = clustered_df[
@@ -108,7 +108,8 @@ A table was formed with the `hvplot.table()` function holding all 532 tradable c
 <br>
 
 ## Summary:
-After processing the data we were given, we determined there were 532 tradable cryptocurrencies.
+Due to nature of our dataset, we did not know the output we were seeking. Unsupervised machine learning allowed for us to successfully group all 532 of our tradable cryptocurrencies into 4 different clusters. These clusters would need a deeper analysis to determine which would be the best investments for Accountability Accounting. We accomplished creating a report housing the cryptocurrencies on the trading market and grouped them to create a classification system to help Accountability Accounting start their journey of making respectable investment decisions.
+
 ## Resources:
 
 - Software:
