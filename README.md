@@ -17,7 +17,17 @@ The data we are working with is not ideal so it will need to be processed to fit
 
 <br>
 
-## Creating a 2D model using PCA:
+## Reducing Data Dimensions and Creating a 2D model using PCA:
+
+    # Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply".
+    plot_df.hvplot.scatter(
+            x='TotalCoinsMined',
+            y='TotalCoinSupply',
+            hover_cols=['CoinName'],
+            by='class'
+    )
+    
+
 
 <img src= Images/2d_model.png>
 
@@ -27,6 +37,22 @@ The data we are working with is not ideal so it will need to be processed to fit
 
 Since our output is unknown we had to identify clusters of cryptocurrencies in our data. Using K-means (1-10) we produced an Elbow Curve. The results show us that the best K-value is 4 meaning our data should be categorized into 4 clusters.
 
+    # Create an elbow curve to find the best value for K.
+    # Find the best value for K
+    inertia = []
+    k = list(range(1, 11))
+
+    # Calculate the inertia for the range of K values
+    for i in k:
+        km = KMeans(n_clusters=i, random_state=0)
+        km.fit(X_pca_df)
+        inertia.append(km.inertia_)
+
+    # Create the elbow curve
+    elbow_data = {"k": k, "inertia": inertia}
+    df_elbow = pd.DataFrame(elbow_data)
+    df_elbow.hvplot.line(x="k", y="inertia", xticks=k, title="Elbow Curve")
+
 
 
 
@@ -35,24 +61,37 @@ Since our output is unknown we had to identify clusters of cryptocurrencies in o
 
 # Creating a 3D-Scatter Plot with the PCA data and the clusters with three features:
 
+    fig = px.scatter_3d(clustered_df, 
+                        x="PC 1", 
+                        y="PC 2", 
+                        z="PC 3", 
+                        color="class", 
+                        symbol="class",
+                        width=800)
+
+    fig.update_layout(legend=dict(x=0,y=1))
+    fig.show()
+
 <img src= Images/3d_scatterplot.png>
 
 
 # Tradeable Cryptocurrencies:
 
+    # create an hv plot table:
+    table = clustered_df[
+    [
+        "CoinName",
+        "Algorithm",
+        "ProofType",
+        "TotalCoinSupply",
+        "TotalCoinsMined",
+        "class",
+    ]
+    ].hvplot.table()
+
+    table
+
 <img src= Images/hvplot_table.png>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
