@@ -19,6 +19,8 @@ The data we are working with is not ideal so it will need to be processed to fit
 
 ## Reducing Data Dimensions and Creating a 2D model using PCA:
 
+A scatter plot was created to show cryptocurrencies grouped in their class.
+
     # Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply".
     plot_df.hvplot.scatter(
             x='TotalCoinsMined',
@@ -35,7 +37,7 @@ The data we are working with is not ideal so it will need to be processed to fit
 
 ## Cryptocurrency Clustering with an Elbow Curve:
 
-Since our output is unknown we had to identify clusters of cryptocurrencies in our data. Using K-means (1-10) we produced an Elbow Curve. The results show us that the best K-value is 4 meaning our data should be categorized into 4 clusters.
+Since our output is unknown we had to identify clusters of cryptocurrencies in our data. In the code below we produced an Elbow Curve to determine the value of K. The results show us that K=4 meaning our data should be categorized into 4 clusters.
 
     # Create an elbow curve to find the best value for K.
     # Find the best value for K
@@ -61,6 +63,8 @@ Since our output is unknown we had to identify clusters of cryptocurrencies in o
 
 # Creating a 3D-Scatter Plot with the PCA data and the clusters with three features:
 
+This 3D model was created with the code below:
+
     fig = px.scatter_3d(clustered_df, 
                         x="PC 1", 
                         y="PC 2", 
@@ -76,6 +80,8 @@ Since our output is unknown we had to identify clusters of cryptocurrencies in o
 
 
 # Tradeable Cryptocurrencies:
+
+A table was formed with the `hvplot.table()` function holding all 532 tradable currencies.
 
     # create an hv plot table:
     table = clustered_df[
